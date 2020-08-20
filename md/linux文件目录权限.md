@@ -19,6 +19,10 @@ drwx------+  4 matias  staff   128B  6 16 23:46 Music
 drwx------+  5 matias  staff   160B  6 16 21:25 Pictures
 drwxr-xr-x+  4 matias  staff   128B  6 16 20:21 Public
 ```
+查看单个文件的详情：
+```
+ls -l helloShell.sh
+```
 从上面可以看到，每一行都有7列，分别是：
 
 第一列
