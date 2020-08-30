@@ -5,3 +5,4 @@
 [Linux 中国](https://linux.cn/)
 [Oracle 技术网](https://www.oracle.com/cn/database/technologies/oracle-technology-network.html)
 [Linux 指令手册](http://linux.51yip.com/)
+[嵌入式 Linux 知识库 (eLinux.org)](https://tinylab.gitbooks.io/elinux/content/zh/)
